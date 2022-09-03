@@ -42,3 +42,4 @@ a=polyfit([1.0667, 5], [1, 100], 1);
 nor_U=a(1)*U+a(2);
 out=round(nor_U);
 end
+
